@@ -1,0 +1,33 @@
+# Core data handling
+pandas>=2.0
+numpy>=1.24
+
+# Machine learning (RQ2)
+scikit-learn>=1.3
+xgboost>=2.0
+shap>=0.44
+
+# Statistics (RQ1)
+scipy>=1.10
+
+# Association rule mining + networks (RQ3)
+mlxtend>=0.23
+networkx>=3.1
+
+# Spatial analysis (RQ4)
+geopandas>=0.14
+esda>=2.5
+libpysal>=4.9
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.13
+
+# Mindat API access (OpenMindat)
+openmindat>=0.1
+requests>=2.31
+python-dotenv>=1.0
+
+# Notebooks
+jupyter>=1.0
+
